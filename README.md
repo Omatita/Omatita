@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omatita
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning c# language
+- 🌱 I’m currently learning C#, JS, Java and python languages
 - 📫 e-mail: alessoma2004@gmail.com
 
 <!---
